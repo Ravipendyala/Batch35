@@ -2,7 +2,7 @@
 
 Team work
 
-<<<<<<< HEAD
+
 Message added by Ravi
 Message added by Devaki.
 =======
